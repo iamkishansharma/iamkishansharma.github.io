@@ -97,7 +97,8 @@ ol {
 /*--/banner --*/
 
 .main-banner {
-    background: url(../images/banner1.jpg)no-repeat center;
+    /*background: url(../images/banner1.jpg)no-repeat center;*/
+    background-image: linear-gradient(gray, black);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
