@@ -19,12 +19,12 @@ body {
 	transform: scale(1.6);
     background-color:#ff4c4c;
     transition-delay: .8;
-}
+}/*
 img:hover{
 	transform:scale(1.1);
 	box-shadow: 5px 5px 15px 5px #000000;
     transition-duration:1s;
-}
+}*/
 #textare,#email,#name{
     background-color: #ffffff90;
     color:#000;
